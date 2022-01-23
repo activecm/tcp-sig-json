@@ -1,5 +1,5 @@
 {
     "signature_list": [
-        { "version": { "name": "Linux 2.6", "rev": "0.1", "date": "20211201" }, "os": { "name": "Ubuntu", "version": "7", "class": "linux", "vendor": "Ubuntu", "url": "https://ubuntu.com/" }, "device": { "type": "", "vendor": "", "url": "" }, "signatures": [ { "acid": "0:1", "tcp_flag": "SYN", "tcp_sig": "S4:64:1:60:M*:S:T:N:W5", "comments": "" } ], "author": { "name": "David Quartarolo", "email": "david@activecountermeasures.com", "github": "but-i-am-dominator" } }
+        { "version": { "name": "Linux 2.6", "rev": "0.1", "date": "20211201" }, "os": { "name": "Ubuntu", "version": "7", "class": "linux", "vendor": "Ubuntu", "url": "https://ubuntu.com/" }, "device": { "type": "", "vendor": "", "url": "" }, "signatures": { "acid": "0:1", "tcp_flag": "SYN", "tcp_sig": "S4:64:1:60:M*:S:T:N:W5", "comments": "" }, "author": { "name": "David Quartarolo", "email": "david@activecountermeasures.com", "github": "but-i-am-dominator" } }
     ]
 }
