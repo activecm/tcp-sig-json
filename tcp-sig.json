@@ -1,0 +1,15 @@
+{
+    "signature_list": [
+        {"acid":"0-1", "platform": "Linux: 5.10.0-15-amd:Debian 11.3.0", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Debian version 11.3.0 / Linux Kernel 5.10.0-15"},
+        {"acid": "1-1", "platform": "Linux: 5.11.0-49-generic:Ubuntu 21.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 21.04 / Linux Kernel 5.11.0-49-generic"},
+        {"acid": "2-1", "platform": "Linux: 5.4.0-120-generic:Ubuntu 20.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 20.04 / Linux Kernel 5.4.0-120-generic"},
+        {"acid": "3-1", "platform": "Linux: 5.0.0-13-generic:Ubuntu 19.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 19.04 / Linux Kernel 5.0.0-13-generic"},
+        {"acid": "4-1", "platform": "Linux: 4.15.0-187-generic:Ubuntu 18.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 18.04 / Linux Kernel 4.15.0-187-generic"},
+        {"acid": "5-1", "platform": "Linux: 4.10.0-19-generic:Ubuntu 17.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 17.04 / Linux Kernel 4.10.0-19-generic"},
+        {"acid": "6-1", "platform": "Linux: 4.4.0-31-generic:Ubuntu 16.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 16.04 / Linux Kernel 4.4.0-31-generic"},
+        {"acid": "7-1", "platform": "Linux: 3.19.0-15-generic:Ubuntu 15.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 15.04 / Linux Kernel 3.19.0-15-generic"},
+        {"acid": "8-1", "platform": "Linux: 3.13.0-32-generic:Ubuntu 14.04", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 14.04 / Linux Kernel 3.13.0-32-generic"},
+        {"acid": "9-1", "platform": "Linux: 3.8.0-19-generic:Ubuntu 13.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*10:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments": "Ubuntu version 13.04 / Linux Kernel 3.8.0-19-generic"},
+        {"acid": "10-1", "platform": "Linux: 3.2.0-23-generic:Ubuntu 12.04", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:mss*10:6:M1460,S,?n,N,W6:df,id+,ack-,uptr+:0", "comments":"Ubuntu version 12.04 / Linux Kernel 3.2.0-23-generic"}
+    ]
+}
