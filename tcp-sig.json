@@ -15,6 +15,18 @@
         {"acid": "12-1", "platform": "FreeBSD: 13.1", "tcp_flag": "SYN", "tcp_sig": "4:56:0:1460:65535:6:M1460,N,W6,S,?n:df,id-,ack-,uptr+:0", "comments":"FreeBSD: 13.1"},
         {"acid": "13-1", "platform": "Windows 10", "tcp_flag": "SYN", "tcp_sig": "4:120:0:1460:mss*44:8:M1460,N,W8,N,N,S:df,id+,ack-,uptr+:0", "comments":"Windows 10"},
         {"acid": "14-1", "platform": "Windows 11", "tcp_flag": "SYN", "tcp_sig": "4:119:0:1460:mss*44:8:M1460,N,W8,N,N,S:df,id+,ack-,uptr+:0", "comments":"Windows 11"},
-        {"acid": "15-1", "platform": "Windows 8.1", "tcp_flag": "SYN", "tcp_sig": "4:117:0:1460:8192:8:M1460,N,W8,N,N,S:df,id+,ecn,ack-,uptr+:0", "comments":"Windows 8.1"}
+        {"acid": "15-1", "platform": "Windows 8.1", "tcp_flag": "SYN", "tcp_sig": "4:117:0:1460:8192:8:M1460,N,W8,N,N,S:df,id+,ecn,ack-,uptr+:0", "comments":"Windows 8.1"},
+        {"acid": "16-1", "platform": "MacOS Montery", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ack-,uptr+:0", "comments":"MacOS Montery / Safari 15.3"},
+        {"acid": "17-1", "platform": "MacOS Big Sur", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ecn,ack-,uptr+:0", "comments":"MacOS Big Sur / Safari 14.1"},
+        {"acid": "18-1", "platform": "MacOS Catalina", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ecn,ack-,uptr+:0", "comments":"MacOS Catalina / Safari 13.1"},
+        {"acid": "19-1", "platform": "MacOS Mojave", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ack-,uptr+:0", "comments":"MacOS Mojave / Safari 12.1"},
+        {"acid": "20-1", "platform": "MacOS High Sierra", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id-,ack-,uptr+:0", "comments":"MacOS High Sierra / Safari 11.1"},
+        {"acid": "21-1", "platform": "MacOS Sierra", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Sierra / Safari 10.1"},
+        {"acid": "22-1", "platform": "MacOS El Capitan", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS El Capitan / Safari 9.1"},
+        {"acid": "23-1", "platform": "MacOS Yosemite", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Yosemite / Safari 8"},
+        {"acid": "24-1", "platform": "MacOS Mavericks", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Mavericks / Safari 7.1"},
+        {"acid": "25-1", "platform": "MacOS Mountain Lion", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Mountain Lion / Safari 6.2"},
+        {"acid": "26-1", "platform": "MacOS Lion", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:3:M1460,N,W3,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Lion / Safari 6"},
+        {"acid": "27-1", "platform": "MacOS Snow Leopard", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:3:M1460,N,W3,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Snow Leopard / Safari 5.1"}
     ]
 }
