@@ -27,6 +27,13 @@
         {"acid": "24-1", "platform": "MacOS Mavericks", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Mavericks / Safari 7.1"},
         {"acid": "25-1", "platform": "MacOS Mountain Lion", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Mountain Lion / Safari 6.2"},
         {"acid": "26-1", "platform": "MacOS Lion", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:3:M1460,N,W3,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Lion / Safari 6"},
-        {"acid": "27-1", "platform": "MacOS Snow Leopard", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:3:M1460,N,W3,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Snow Leopard / Safari 5.1"}
+        {"acid": "27-1", "platform": "MacOS Snow Leopard", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:3:M1460,N,W3,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"MacOS Snow Leopard / Safari 5.1"},
+        {"acid": "28-1", "platform": "Apple iPhone 13:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 13:iOS 15 / Safari Mobile"},
+        {"acid": "29-1", "platform": "Apple iPhone 13 Pro:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 13:iOS 15 / Safari Mobile"},
+        {"acid": "30-1", "platform": "Apple iPhone 13 Pro Max:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 13 Pro Max:iOS 15 / Safari Mobile"},
+        {"acid": "31-1", "platform": "Apple iPhone 13 Mini:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 13 Mini:iOS 15 / Safari Mobile"},
+        {"acid": "32-1", "platform": "Apple iPhone 12 Pro:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Pro:iOS 14 / Safari Mobile"},
+        {"acid": "33-1", "platform": "Apple iPhone 12 Mini:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Mini:iOS 14 / Safari Mobile"},
+        {"acid": "34-1", "platform": "Apple iPhone 12 Pro Max:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Pro Max:iOS 14 / Safari Mobile"}
     ]
 }
