@@ -34,6 +34,10 @@
         {"acid": "31-1", "platform": "Apple iPhone 13 Mini:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 13 Mini:iOS 15 / Safari Mobile"},
         {"acid": "32-1", "platform": "Apple iPhone 12 Pro:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Pro:iOS 14 / Safari Mobile"},
         {"acid": "33-1", "platform": "Apple iPhone 12 Mini:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Mini:iOS 14 / Safari Mobile"},
-        {"acid": "34-1", "platform": "Apple iPhone 12 Pro Max:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Pro Max:iOS 14 / Safari Mobile"}
+        {"acid": "34-1", "platform": "Apple iPhone 12 Pro Max:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 12 Pro Max:iOS 14 / Safari Mobile"},
+        {"acid": "35-1", "platform": "Huawei P30: v9", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Huawei P30: v9 / Chrome"},
+        {"acid": "36-1", "platform": "Oppo A96: v11.0", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo A96: v11.0 / Chrome"},
+        {"acid": "37-1", "platform": "Oppo Reno 6: v11.0", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo Reno 6: v11.0 / Chrome"},
+        {"acid": "38-1", "platform": "Oppo Reno 3 Pro: v10.0", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo Reno 3 Pro: v10.0 / Chrome"}
     ]
 }
