@@ -38,6 +38,11 @@
         {"acid": "35-1", "platform": "Huawei P30: v9", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Huawei P30: v9 / Chrome"},
         {"acid": "36-1", "platform": "Oppo A96: v11.0", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo A96: v11.0 / Chrome"},
         {"acid": "37-1", "platform": "Oppo Reno 6: v11.0", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo Reno 6: v11.0 / Chrome"},
-        {"acid": "38-1", "platform": "Oppo Reno 3 Pro: v10.0", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo Reno 3 Pro: v10.0 / Chrome"}
+        {"acid": "38-1", "platform": "Oppo Reno 3 Pro: v10.0", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Oppo Reno 3 Pro: v10.0 / Chrome"},
+        {"acid": "39-1", "platform": "Vivo Y21: v11", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Vivo Y21: v11 / Chrome"},
+        {"acid": "40-1", "platform": "Vivo Y50: v10", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Vivo Y50: v10 / Chrome"},
+        {"acid": "41-1", "platform": "Redmi Note 8: v9", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Redmi Note 8: v9 / Chrome"},
+        {"acid": "42-1", "platform": "Redmi Note 9: v10", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Redmi Note 9: v10 / Chrome"},
+        {"acid": "43-1", "platform": "Redmi Note 11: v11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Redmi Note 11: v11 / Chrome"}
     ]
 }
