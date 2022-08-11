@@ -46,6 +46,11 @@
         {"acid": "43-1", "platform": "Redmi Note 11: v11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Redmi Note 11: v11 / Chrome"},
         {"acid": "44-1", "platform": "Moto G 2nd Gen: v5", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Moto G 2nd Gen: v5 / Chrome"},
         {"acid": "45-1", "platform": "Moto G7 Play: v9", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Moto G7 Play: v9 / Chrome"},
-        {"acid": "46-1", "platform": "Moto G9 Play: v10", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Moto G9 Play: v10 / Chrome"}
+        {"acid": "46-1", "platform": "Moto G9 Play: v10", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Moto G9 Play: v10 / Chrome"},
+        {"acid": "47-1", "platform": "OnePlus 6T: v9", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 6T: v9 / Chrome"},
+        {"acid": "48-1", "platform": "OnePlus 7: v9", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 7: v9 / Chrome"},
+        {"acid": "49-1", "platform": "OnePlus 7T: v10", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 7T: v10 / Chrome"},
+        {"acid": "50-1", "platform": "OnePlus 8: v10", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 8: v10 / Chrome"},
+        {"acid": "51-1", "platform": "OnePlus 9: v11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 9: v11 / Chrome"}
     ]
 }
