@@ -51,6 +51,10 @@
         {"acid": "48-1", "platform": "OnePlus 7: v9", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 7: v9 / Chrome"},
         {"acid": "49-1", "platform": "OnePlus 7T: v10", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 7T: v10 / Chrome"},
         {"acid": "50-1", "platform": "OnePlus 8: v10", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 8: v10 / Chrome"},
-        {"acid": "51-1", "platform": "OnePlus 9: v11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 9: v11 / Chrome"}
+        {"acid": "51-1", "platform": "OnePlus 9: v11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"OnePlus 9: v11 / Chrome"},
+        {"acid": "52-1", "platform": "Nexus 4: v4.2", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Nexus 4: v4.2 / Chrome"},
+        {"acid": "53-1", "platform": "Nexus 5: v4.4", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 5: v4.4 / Chrome"},
+        {"acid": "54-1", "platform": "Nexus 6: v6", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 6: v6 / Chrome"},
+        {"acid": "55-1", "platform": "Nexus 7: v6", "tcp_flag": "SYN", "tcp_sig": "4:50:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 7: v6 / Chrome"}
     ]
 }
