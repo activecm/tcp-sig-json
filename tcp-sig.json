@@ -67,6 +67,17 @@
         {"acid": "64-1", "platform": "Pixel 5: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 5: v12 / Chrome"},
         {"acid": "65-1", "platform": "Pixel 6 pro: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6 pro: v12 / Chrome"},
         {"acid": "66-1", "platform": "Pixel 6 pro: v13", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6 pro: v13 / Chrome"},
-        {"acid": "67-1", "platform": "Pixel 6: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6: v12 / Chrome"}
+        {"acid": "67-1", "platform": "Pixel 6: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6: v12 / Chrome"},
+        {"acid": "68-1", "platform": "Galaxy S: v2.2", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Galaxy S: v2.2 / Android Browser"},
+        {"acid": "69-1", "platform": "Galaxy S2: v2.3", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Galaxy S2: v2.3 / Android Browser"},
+        {"acid": "70-1", "platform": "Galaxy S3: v4.1", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Galaxy S3: v4.1 / Chrome"},
+        {"acid": "71-1", "platform": "Galaxy S5: v4.4", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S5: v4.4 / Chrome"},
+        {"acid": "72-1", "platform": "Galaxy S6: v5", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S6: v5 / Chrome"},
+        {"acid": "73-1", "platform": "Galaxy S8: v7", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S8: v7 / Chrome"},
+        {"acid": "74-1", "platform": "Galaxy S9: v8", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S9: v8 / Chrome"},
+        {"acid": "75-1", "platform": "Galaxy S10: v9", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S10: v9 / Chrome"},
+        {"acid": "76-1", "platform": "Galaxy S20: v10", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S20: v10 / Chrome"},
+        {"acid": "77-1", "platform": "Galaxy S21: v11", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S21: v11 / Chrome"},
+        {"acid": "78-1", "platform": "Galaxy S22: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S22: v12 / Chrome"}
     ]
 }
