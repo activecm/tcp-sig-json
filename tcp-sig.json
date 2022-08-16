@@ -55,6 +55,18 @@
         {"acid": "52-1", "platform": "Nexus 4: v4.2", "tcp_flag": "SYN", "tcp_sig": "4:52:0:1460:65535:4:M1460,N,W4,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Nexus 4: v4.2 / Chrome"},
         {"acid": "53-1", "platform": "Nexus 5: v4.4", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 5: v4.4 / Chrome"},
         {"acid": "54-1", "platform": "Nexus 6: v6", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 6: v6 / Chrome"},
-        {"acid": "55-1", "platform": "Nexus 7: v6", "tcp_flag": "SYN", "tcp_sig": "4:50:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 7: v6 / Chrome"}
+        {"acid": "55-1", "platform": "Nexus 7: v6", "tcp_flag": "SYN", "tcp_sig": "4:50:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Nexus 7: v6 / Chrome"},
+        {"acid": "56-1", "platform": "Pixel: v8", "tcp_flag": "SYN", "tcp_sig": "4:50:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel: v8 / Chrome"},
+        {"acid": "57-1", "platform": "Pixel 2: v8", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 2: v8 / Chrome"},
+        {"acid": "58-1", "platform": "Pixel 2: v9", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 2: v9 / Chrome"},
+        {"acid": "59-1", "platform": "Pixel 3 XL: v9", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 3 XL: v9 / Chrome"},
+        {"acid": "60-1", "platform": "Pixel 3: v9", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 3: v9 / Chrome"},
+        {"acid": "61-1", "platform": "Pixel 4 XL: v10", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 4 XL: v10 / Chrome"},
+        {"acid": "62-1", "platform": "Pixel 4: v11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 4: v11 / Chrome"},
+        {"acid": "63-1", "platform": "Pixel 5: v11", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 5: v11 / Chrome"},
+        {"acid": "64-1", "platform": "Pixel 5: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 5: v12 / Chrome"},
+        {"acid": "65-1", "platform": "Pixel 6 pro: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6 pro: v12 / Chrome"},
+        {"acid": "66-1", "platform": "Pixel 6 pro: v13", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:mss*20:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6 pro: v13 / Chrome"},
+        {"acid": "67-1", "platform": "Pixel 6: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Pixel 6: v12 / Chrome"}
     ]
 }
