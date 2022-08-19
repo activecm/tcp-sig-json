@@ -81,6 +81,12 @@
         {"acid": "78-1", "platform": "Galaxy S22: v12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:mss*44:7:M1460,S,?n,N,W7:df,id+,ack-,uptr+:0", "comments":"Galaxy S22: v12 / Chrome"},
         {"acid": "79-1", "platform": "Apple iPhone 11:iOS 13", "tcp_flag": "SYN", "tcp_sig": "4:54:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 11:iOS 13 / Safari"},
         {"acid": "80-1", "platform": "Apple iPhone 11:iOS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ecn,ack-,uptr+:0", "comments":"Apple iPhone 11:iOS 14 / Safari"},
-        {"acid": "81-1", "platform": "Apple iPhone 11:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 11:iOS 15 / Safari"}
+        {"acid": "81-1", "platform": "Apple iPhone 11:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 11:iOS 15 / Safari"},
+        {"acid": "82-1", "platform": "Apple iPhone 8:iOS 11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 8:iOS 11 / Safari"},
+        {"acid": "83-1", "platform": "Apple iPhone 8:iOS 12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 8:iOS 12 / Safari"},
+        {"acid": "84-1", "platform": "Apple iPhone 8:iOS 13", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 8:iOS 13 / Safari"},
+        {"acid": "85-1", "platform": "Apple iPhone 8:iOS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 8:iOS 15 / Safari"},
+        {"acid": "86-1", "platform": "Apple iPhone 7:iOS 10", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 7:iOS 10 / Safari"},
+        {"acid": "87-1", "platform": "Apple iPhone 7:iOS 12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 7:iOS 12 / Safari"}
     ]
 }
