@@ -90,6 +90,12 @@
         {"acid": "87-1", "platform": "Apple iPhone 7:iOS 12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 7:iOS 12 / Safari"},
         {"acid": "88-1", "platform": "Apple iPhone 6:iOS 8", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Apple iPhone 6:iOS 8 / Safari"},
         {"acid": "89-1", "platform": "Apple iPhone 6S Plus:iOS 9", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Apple iPhone 6S Plus:iOS 9 / Safari"},
-        {"acid": "90-1", "platform": "Apple iPhone 6:iOS 11", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 6:iOS 11 / Safari"}
+        {"acid": "90-1", "platform": "Apple iPhone 6:iOS 11", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPhone 6:iOS 11 / Safari"},
+        {"acid": "91-1", "platform": "Apple iPhone 5S:iOS 7", "tcp_flag": "SYN", "tcp_sig": "4:51:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,id+,ack-,uptr+:0", "comments":"Apple iPhone 5S:iOS 7 / Safari"},
+        {"acid": "92-1", "platform": "Apple iPad 9th:iPad OS 15", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPad 9th:iPad OS 15 / Safari"},
+        {"acid": "93-1", "platform": "Apple iPad Pro 12.9:iPad OS 14", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPad Pro 12.9:iPad OS 14 / Safari"},
+        {"acid": "94-1", "platform": "Apple iPad Pro 11:iPad OS 13", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPad Pro 11:iPad OS 13 / Safari"},
+        {"acid": "95-1", "platform": "Apple iPad Pro 11:iPad OS 12", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPad Pro 11:iPad OS 12 / Safari"},
+        {"acid": "96-1", "platform": "Apple iPad 6th:iPad OS 11", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:5:M1460,N,W5,N,N,?n,S,E:df,ack-,uptr+:0", "comments":"Apple iPad 6th:iPad OS 11 / Safari"}
     ]
 }
