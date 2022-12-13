@@ -16,6 +16,7 @@
         {"acid": "13-1", "platform": "Windows 10", "tcp_flag": "SYN", "tcp_sig": "4:120:0:1460:mss*44:8:M1460,N,W8,N,N,S:df,id+,ack-,uptr+:0", "comments":"Windows 10"},
         {"acid": "14-1", "platform": "Windows 11", "tcp_flag": "SYN", "tcp_sig": "4:119:0:1460:mss*44:8:M1460,N,W8,N,N,S:df,id+,ack-,uptr+:0", "comments":"Windows 11"},
         {"acid": "15-1", "platform": "Windows 8.1", "tcp_flag": "SYN", "tcp_sig": "4:117:0:1460:8192:8:M1460,N,W8,N,N,S:df,id+,ecn,ack-,uptr+:0", "comments":"Windows 8.1"},
+        {"acid": "15-2", "platform": "Windows 7", "tcp_flag": "SYN", "tcp_sig": "4:128:0:1460:8192:8:M1460,N,W8,N,N,S:df,id+,ack-,uptr+:0", "comments":"Windows 7"},
         {"acid": "16-1", "platform": "MacOS Montery", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ack-,uptr+:0", "comments":"MacOS Montery / Safari 15.3"},
         {"acid": "17-1", "platform": "MacOS Big Sur", "tcp_flag": "SYN", "tcp_sig": "4:57:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ecn,ack-,uptr+:0", "comments":"MacOS Big Sur / Safari 14.1"},
         {"acid": "18-1", "platform": "MacOS Catalina", "tcp_flag": "SYN", "tcp_sig": "4:53:0:1460:65535:6:M1460,N,W6,N,N,?n,S,E:df,id-,ecn,ack-,uptr+:0", "comments":"MacOS Catalina / Safari 13.1"},
